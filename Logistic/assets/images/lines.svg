@@ -1,0 +1,20 @@
+<svg id="lines" xmlns="http://www.w3.org/2000/svg" width="91.969" height="125.53" viewBox="0 0 91.969 125.53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e62929;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #0d53f2;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M840.538,1213.7l3.94,3.08-80.036,102.44-3.94-3.08Z" transform="translate(-760.5 -1213.69)"/>
+  <path class="cls-2" d="M844.538,1223.7l3.94,3.08-80.036,102.44-3.94-3.08Z" transform="translate(-760.5 -1213.69)"/>
+  <path class="cls-1" d="M848.538,1233.7l3.94,3.08-80.036,102.44-3.94-3.08Z" transform="translate(-760.5 -1213.69)"/>
+</svg>
